@@ -25,3 +25,6 @@ Record a short video recording of the overview.
 Bonus for presenting on the first week. 
 
 ## References
+<a id="1">[1]</a>
+[Audeering. “Audeering/Wav2vec2-Large-Robust-12-Ft-Emotion-Msp-Dim.” Huggingface.co, HuggingFace, huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim. Accessed 14 Nov. 2022.](https://huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim)
+‌
