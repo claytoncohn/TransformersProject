@@ -1,2 +1,27 @@
 # TransformersProject
-DS5899 Transformers Project: Detect Educational Emotions via Speech Transformers
+DS5899 Transformers Project
+
+Detect Educational Emotions via Speech Transformers.
+
+## Overview (25 pts)
+Two-minute overview providing context, stating the problem the project is addressing, characterizing the approach, and giving a brief account of how the problem was addressed.
+
+## Critical Analysis (10 pts)
+Answer one or more of the following questions: What is the impact of this project? What does it reveal or suggest? What is the next step?
+
+## Resource Links (10 pts)
+Prepare links of where to go to get more information (other papers, models, blog posts (e.g. papers with code))
+
+## Code Demonstration (15 pts)
+Make a Jupyter notebook demonstrating using the model.
+
+## Repo (20 pts)
+Prepare a repo with a readme, notebook, links to video, resources.
+
+## Video Recording (10 pts)
+Record a short video recording of the overview.
+
+## First Week Bonus (15 pts)
+Bonus for presenting on the first week. 
+
+## References
