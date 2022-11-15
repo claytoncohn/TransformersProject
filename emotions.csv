@@ -1,0 +1,21 @@
+file,text,arousal,dominance,valence,label
+confusion_0.wav,This just isn't making sense to me.,0.49106094,0.5793368,0.1995954,confusion
+confusion_1.wav,I'm just not getting it.,0.49663165,0.5647438,0.25041533,confusion
+confusion_2.wav,I don't think I understand what you mean.,0.34002945,0.46305895,0.2231871,confusion
+confusion_3.wav,Why won't the code run?,0.47621134,0.5331708,0.32706666,confusion
+confusion_4.wav,"Wait, so what are you talking about?",0.45259786,0.49819237,0.5181389,confusion
+eureka_0.wav,"Aha, finally!",0.7792916,0.8274951,0.94278157,eureka
+eureka_1.wav,"Ohhh, yeah that makes so much sense!",0.6143471,0.6249765,0.46889588,eureka
+eureka_2.wav,"Of course, now I get it!",0.59466136,0.659573,0.47453544,eureka
+eureka_3.wav,That was so easy!,0.7328553,0.75031567,0.57609695,eureka
+eureka_4.wav,I can't believe I didn't figure that out earlier?!,0.64422673,0.69252807,0.30733454,eureka
+frustration_0.wav,"Ugh, what is going on here?!",0.6028395,0.6329797,0.33664718,frustration
+frustration_1.wav,I don't know why this is happening!,0.7690804,0.7855544,0.07943125,frustration
+frustration_2.wav,This thing is so stupid!,0.76774985,0.817618,-0.037477914,frustration
+frustration_3.wav,Why can't I figure this out?!,0.78726614,0.7933896,0.28953522,frustration
+frustration_4.wav,There's not a bug in my code!,0.8213966,0.8443007,0.094211236,frustration
+neutral_0.wav,I'm okay.,0.44999522,0.4900158,0.67412114,neutral
+neutral_1.wav,"Sure, that makes sense.",0.47224438,0.6014818,0.38284013,neutral
+neutral_2.wav,I feel ambivalent.,0.40498945,0.5531096,0.45400068,neutral
+neutral_3.wav,"Hmm, interesting.",0.35768574,0.48334157,0.7252641,neutral
+neutral_4.wav,"Yeah, that works.",0.43854916,0.53839254,0.56305283,neutral
