@@ -1,7 +1,7 @@
 # TransformersProject
 DS5899 Transformers Project
 
-Detect Educational Emotions via Speech Transformers.
+Idntifying Educational Emotions via Speech Transformers.
 
 ## Overview (25 pts)
 Two-minute overview providing context, stating the problem the project is addressing, characterizing the approach, and giving a brief account of how the problem was addressed.
