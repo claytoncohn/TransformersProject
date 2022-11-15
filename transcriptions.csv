@@ -1,0 +1,21 @@
+﻿file,text
+neutral_0.wav,I'm okay.
+neutral_1.wav,"Sure, that makes sense."
+neutral_2.wav,I feel ambivalent.
+neutral_3.wav,"Hmm, interesting."
+neutral_4.wav,"Yeah, that works."
+confusion_0.wav,This just isn't making sense to me.
+confusion_1.wav,I'm just not getting it.
+confusion_2.wav,I don't think I understand what you mean.
+confusion_3.wav,Why won't the code run?
+confusion_4.wav,"Wait, so what are you talking about?"
+frustration_0.wav,"Ugh, what is going on here?!"
+frustration_1.wav,I don't know why this is happening!
+frustration_2.wav,This thing is so stupid!
+frustration_3.wav,Why can't I figure this out?!
+frustration_4.wav,There's not a bug in my code!
+eureka_0.wav,"Aha, finally!"
+eureka_1.wav,"Ohhh, yeah that makes so much sense!"
+eureka_2.wav,"Of course, now I get it!"
+eureka_3.wav,That was so easy!
+eureka_4.wav,I can't believe I didn't figure that out earlier?!
