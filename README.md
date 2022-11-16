@@ -30,3 +30,9 @@ Bonus for presenting on the first week.
 <br>
 <a id="2">[2]</a>
 [Wagner, Johannes, et al. "Dawn of the transformer era in speech emotion recognition: closing the valence gap." arXiv preprint arXiv:2203.07378 (2022).](https://arxiv.org/pdf/2203.07378.pdf)
+<br>
+<a id="3">[3]</a>
+[Baevski, A., Zhou, H., Mohamed, A., and Auli, M., “wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations”, <i>arXiv e-prints</i>, 2020.](https://ai.facebook.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio/)
+<br>
+<a id="4">[4]</a>
+[Reza Lotfian and Carlos Busso, "Building naturalistic emotionally balanced speech corpus by retrieving emotional speech from existing podcast recordings," IEEE Transactions on Affective Computing, vol. 10, no. 4, pp. 471-483, October-December 2019.](https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Podcast.html)
