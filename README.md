@@ -12,6 +12,8 @@ Answer one or more of the following questions: What is the impact of this projec
 ## Resource Links (10 pts)
 Prepare links of where to go to get more information (other papers, models, blog posts (e.g. papers with code))
 
+[Audeering on GitHub](https://github.com/audeering)
+
 ## Code Demonstration (15 pts)
 Make a Jupyter notebook demonstrating using the model.
 
