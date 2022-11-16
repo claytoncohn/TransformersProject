@@ -6,22 +6,38 @@ Identifying Educational Emotions via Speech Transformers.
 ## Overview (25 pts)
 Two-minute overview providing context, stating the problem the project is addressing, characterizing the approach, and giving a brief account of how the problem was addressed.
 
+[PowerPoint](https://github.com/claytoncohn/TransformersProject/blob/main/Overview.pptx) presentation.
+
 ## Critical Analysis (10 pts)
 Answer one or more of the following questions: What is the impact of this project? What does it reveal or suggest? What is the next step?
+
+See [PowerPoint](https://github.com/claytoncohn/TransformersProject/blob/main/Overview.pptx) presentation.
 
 ## Resource Links (10 pts)
 Prepare links of where to go to get more information (other papers, models, blog posts (e.g. papers with code))
 
 [Audeering on GitHub](https://github.com/audeering)
 
+[Audeering on HuggingFace Hub](https://huggingface.co/audeering/wav2vec2-large-robust-12-ft-emotion-msp-dim)
+
+[Audeering Model Paper](https://arxiv.org/pdf/2203.07378.pdf)
+
+
+
 ## Code Demonstration (15 pts)
 Make a Jupyter notebook demonstrating using the model.
+
+See [repo](https://github.com/claytoncohn/TransformersProject).
 
 ## Repo (20 pts)
 Prepare a repo with a readme, notebook, links to video, resources.
 
+See [repo](https://github.com/claytoncohn/TransformersProject).
+
 ## Video Recording (10 pts)
 Record a short video recording of the overview.
+
+Video [link](https://youtu.be/ctVuRSNPwQk).
 
 ## First Week Bonus (15 pts)
 Bonus for presenting on the first week. 
